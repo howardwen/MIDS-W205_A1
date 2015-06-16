@@ -1,0 +1,3 @@
+3. Running locally took 146 seconds to run while running on EMR took 242 seconds.
+4. Running locally there were 2,042 address tags. Running on EMR there were 2,042 address tags.
+5. The local version and the EMR version provided the same answers.
